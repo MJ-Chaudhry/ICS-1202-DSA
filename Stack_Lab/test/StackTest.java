@@ -2,7 +2,7 @@ package test;
 
 import java.util.EmptyStackException;
 
-import StackX.StackX;
+import DSA.StackX;
 
 /**
  * StackTest

@@ -1,6 +1,6 @@
 package test;
 
-import StackX.StackX;
+import DSA.StackX;
 
 public class PalindromeTest {
     public static void main(String[] args) {

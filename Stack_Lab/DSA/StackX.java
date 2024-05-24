@@ -2,7 +2,7 @@
 // demonstrates stacks
 ////////////////////////////////////////////////////////////////
 
-package StackX;
+package DSA;
 
 import java.util.EmptyStackException;
 
